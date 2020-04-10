@@ -1,1 +1,0 @@
-# specreduce_example
